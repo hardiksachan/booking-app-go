@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	conferenceName := "Go Conference"
+	conferenceName := "Go Conference (2nd edition)"
 	const conferenceTickets = 50
 	var remainingTickets uint = 50
 	var bookings []string
